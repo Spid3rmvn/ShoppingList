@@ -1,4 +1,4 @@
-# Shopping List Web App
+# Shopping List Website
 
 This is a simple and interactive shopping list web application that allows users to add items, mark them as purchased, and delete or clear the entire list. The app is built using HTML, CSS, and JavaScript. It features a clean and dynamic interface with a "Mark Purchased" functionality that adds a checkmark and changes the item style when marked.
 
